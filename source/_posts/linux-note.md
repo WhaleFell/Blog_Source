@@ -1,3 +1,14 @@
+---
+title: Linux Note
+date: 2021-08-18 19:37:48
+categories: Linux
+tags: [Linux, 技术]
+description: Linux Note
+index_img: https://tse4-mm.cn.bing.net/th/id/OIP-C.KLeyJiJnwY9iH6bHb6HWKwEsCd?pid=ImgDet&rs=1
+banner_img: https://tse4-mm.cn.bing.net/th/id/OIP-C.KLeyJiJnwY9iH6bHb6HWKwEsCd?pid=ImgDet&rs=1
+excerpt: Python 异步百万并发全文最详细笔记！！
+---
+
 # Linux Notes
 
 ## 硬盘操作
