@@ -949,6 +949,12 @@ links:
       link: https://blog.adworld.top/,
       avatar: https://blog.adworld.top/photo/zhade2.jpg
     }
+    - {
+      title: 冷曦云,
+      intro: 无法追溯的过去，让ta成为回忆,
+      link: https://www.zymys.cn,
+      avatar: https://img.zymys.cn/2022/01/02/47e6abebb5228.jpg
+    }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
