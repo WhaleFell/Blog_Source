@@ -49,7 +49,7 @@ banner_img: https://images.samsung.com/is/image/samsung/p5/semiconductor/solutio
 
 > 配置文件：`/etc/nginx/conf.d`; `/etc/nginx/sites-enabled`
 >
-> 默认配置：[Nginx默认配置](#Nginx_default_config)
+> 默认配置：[Nginx默认配置](#Nginx-default-config)
 
 1. Port: 80  
 
@@ -71,7 +71,7 @@ banner_img: https://images.samsung.com/is/image/samsung/p5/semiconductor/solutio
    
 4. Port: 89
 
-   Desc: AiraNg 下载器。（已反向代理Aira2 6800）[配置文件](#AiraNg_download_config)
+   Desc: AiraNg 下载器。（已反向代理Aira2 6800）[配置文件](#AiraNg-download-config)
 
    Path: `/www/kodcloud`
 
@@ -81,19 +81,19 @@ banner_img: https://images.samsung.com/is/image/samsung/p5/semiconductor/solutio
 
    Desc：Portainer web admin
 
-   command：[source](#run_portainer_command)
+   command：[source](#run-portainer-command)
 
 2. Port：8989
 
    Desc：qBittorrent download
 
-   command：[source](#run qBittorrent command)
+   command：[source](#run-qBittorrent-command)
 
 3. Port：18888
 
    Desc：网心云（容器魔方）
 
-   command：[source](run_wxedge_command)
+   command：[source](#run-wxedge-command)
 
 4. network：macnet
 
@@ -101,7 +101,7 @@ banner_img: https://images.samsung.com/is/image/samsung/p5/semiconductor/solutio
 
    Desc：openwrt 软路由
 
-   coomand：[source](#run_openwrt_by_docker)
+   coomand：[source](#run-openwrt-by-docker)
 
 
 # 部分配置文件
