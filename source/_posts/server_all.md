@@ -93,7 +93,7 @@ banner_img: https://images.samsung.com/is/image/samsung/p5/semiconductor/solutio
 
    Desc：网心云（容器魔方）
 
-   command：[source](run-wxedge-command)
+   command：[source](#run-wxedge-command)
 
 4. network：macnet
 
