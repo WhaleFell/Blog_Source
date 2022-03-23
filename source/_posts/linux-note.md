@@ -73,3 +73,74 @@ systemctl start ttnode
 systemctl enable ttnode
 ```
 
+## 网络相关
+
+### OpenVPN 配置
+
+> 参考：[窗口 - 使用OpenVPN，我如何只能让局域网通过VPN？- 服务器故障 (serverfault.com)](https://serverfault.com/questions/785767/with-openvpn-how-can-i-only-let-lan-go-through-the-vpn) **重要**
+>
+> [ROUTE: route addition failed - lsgxeva - 博客园 (cnblogs.com)](https://www.cnblogs.com/lsgxeva/p/11378768.html)
+>
+> [networking - How to route only subnet in OpenVPN and not internet traffic - Super User](https://superuser.com/questions/1608345/how-to-route-only-subnet-in-openvpn-and-not-internet-traffic)
+
+服务端：`server.conf`  
+
+```shell
+server 192.168.255.0 255.255.255.0
+verb 3
+key /etc/openvpn/pki/private/0.0.0.0.key
+ca /etc/openvpn/pki/ca.crt
+cert /etc/openvpn/pki/issued/0.0.0.0.crt
+dh /etc/openvpn/pki/dh.pem
+tls-auth /etc/openvpn/pki/ta.key
+key-direction 0
+keepalive 10 60
+persist-key
+persist-tun
+
+proto tcp
+# Rely on Docker to do port mapping, internally always 1194
+port 1194
+dev tun0
+status /tmp/openvpn-status.log
+
+user nobody
+group nogroup
+comp-lzo no
+
+### Route Configurations Below
+route 192.168.254.0 225.225.225.0
+
+### Push Configurations Below
+```
+
+客户端：`client.conf`  
+
+```
+client
+nobind
+dev tun
+remote-cert-tls server
+remote tx.cyidz.xyz 11194 tcp
+
+<key>
+-----BEGIN PRIVATE KEY-----
+....
+-----END CERTIFICATE-----
+</ca>
+key-direction 1
+<tls-auth>
+#
+# 2048 bit OpenVPN static key
+#
+-----BEGIN OpenVPN Static key V1-----
+....
+-----END OpenVPN Static key V1-----
+</tls-auth>
+
+# redirect-gateway def1  # 注释掉
+dhcp-option DNS 114.114.114.114 # 自定义DNS
+route 192.168.1.0 255.255.255.0  # 添加路由
+route 192.168.0.0 255.255.255.0
+```
+
