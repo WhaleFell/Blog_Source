@@ -713,7 +713,7 @@ gitalk:
   # https://github.com/gitalk/gitalk/issues/429
   # https://github.com/Zibri/cloudflare-cors-anywhere
   # https://gitalkproxy.gitalkproxy.workers.dev/  # 自建proxy CF
-  proxy: ttps://gitalkproxy.gitalkproxy.workers.dev/?https://github.com/login/oauth/access_token
+  proxy: https://gitalkproxy.gitalkproxy.workers.dev/?https://github.com/login/oauth/access_token
 
 # Valine
 # 基于 LeanCloud
