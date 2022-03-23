@@ -245,7 +245,7 @@ web_analytics:  # 网页访问统计
   # 51.la 站点统计 ID
   # 51.la analytics
   # See: https://www.51.la/user/site/index
-  woyaola:  # 51.la 站点统计 ID，参见
+  woyaola: 21276303 # 51.la 站点统计 ID，参见
 
   # 友盟/cnzz 站点统计 web_id
   # cnzz analytics
@@ -422,11 +422,11 @@ footer:
   beian:
     enable: true
     # ICP证号
-    icp_text: 粤ICP证123456号
+    icp_text: 粤ICP证113416号
     # 公安备案号，不填则只显示ICP
-    police_text: 粤公网安备12345678号
+    police_text: 粤公网安备1132608号
     # 公安备案的编号，用于URL跳转查询
-    police_code: 12345678
+    police_code: 1132608
     # 公安备案的图片. 为空时不显示备案图片
     police_icon: /img/police_beian.png
 
@@ -510,13 +510,13 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: https://img1.imgtp.com/2022/03/20/snWZvYUf.png
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
   # Path of the default post cover when `index_img` is not set. If both are empty, no image will be displayed
-  default_index_img: 
+  default_index_img: https://img1.imgtp.com/2022/03/20/snWZvYUf.png
 
   # 文章标题下方的元信息
   # Meta information below title
@@ -805,7 +805,7 @@ cusdis:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/default.png
+  banner_img: https://img1.imgtp.com/2022/03/20/snWZvYUf.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -817,7 +817,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://img1.imgtp.com/2022/03/20/snWZvYUf.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -890,7 +890,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: /img/default.png
+  banner_img: https://img1.imgtp.com/2022/03/20/snWZvYUf.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -901,10 +901,10 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://img1.imgtp.com/2022/03/20/snWZvYUf.png
   banner_img_height: 85
   banner_mask_alpha: 0.3
-  subtitle: "Page not found"
+  subtitle: "Page not found!"
 
 
 #---------------------------
@@ -913,7 +913,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://img1.imgtp.com/2022/03/20/snWZvYUf.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
