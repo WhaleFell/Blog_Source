@@ -4,10 +4,11 @@ date: 2021-12-19 19:37:48
 categories: 玩客云
 tags: [玩客云, Linux系统]
 description: 记一次配置玩客云的经历....
-index_img: 
-banner_img: 
-sticky: 109
+index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220329204745.png
+banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220329204745.png
 ---
+
+
 # 学校玩客云修复计划
 
 ## 重新烧写玩客云

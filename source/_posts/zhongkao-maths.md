@@ -6,8 +6,8 @@ tags: [数学, 考试]
 description: 😭2021年广东数学中考体验
 index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210629014311.png
 banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210629014311.png
-sticky: 102
 ---
+
 
 # 😭😭😭2021年广东数学中考体验
 
