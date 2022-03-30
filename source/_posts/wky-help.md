@@ -8,7 +8,6 @@ index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220329204
 banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220329204745.png
 ---
 
-
 # 学校玩客云修复计划
 
 ## 重新烧写玩客云
@@ -21,7 +20,7 @@ banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/2022032920
 
    - Win10可以直接从【设置->网络和Internet->状态->更改适配器设置】进入可以看到，我们的本地网络连接方式有 **WLAN无线连接** 和 **以太网有线连接** 两种方式。
 
-   - 记录当前我们的网络连接状况：`arp -a `
+   - 记录当前我们的网络连接状况：`arp -a`
 
    - **共享WLAN网络给以太网**
 
@@ -38,12 +37,12 @@ banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/2022032920
 
 ## 玩客云配置
 
-1. **换源** 
+1. **换源**
 
-   > 参考：[ 玩客云刷armbian更新源报错The repository ‘http://apt.armbian.com stretch Release‘ does not have a Release file](https://blog.csdn.net/qq_42877824/article/details/119332805)
+   > 参考：[玩客云刷armbian更新源报错The repository ‘http://apt.armbian.com stretch Release‘ does not have a Release file](https://blog.csdn.net/qq_42877824/article/details/119332805)
 
    **修改源配置文件**
-   
+
    ```shell
    sudo nano /etc/apt/sources.list
    
@@ -59,7 +58,7 @@ banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/2022032920
    sudo apt update
    sudo apu upgrade
    ```
-   
+
 2. **卸载自带的宝塔面板**
 
    ```shell
@@ -68,7 +67,7 @@ banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/2022032920
    sh bt-uninstall.sh
    ```
 
-3. **部署 `Frpc` 内网穿透** 
+3. **部署 `Frpc` 内网穿透**
 
    **下载并解压**
 
@@ -136,7 +135,7 @@ banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/2022032920
    启动：
 
    ```shell
-   sudo systemctl start frpc	# 开启
+   sudo systemctl start frpc # 开启
    sudo systemctl status frpc  # 查看状态
    sudo systemctl enable frpc  # 设置开机自启
    ```
@@ -160,8 +159,6 @@ banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/2022032920
    python3 -m pip install --upgrade pip  # 更新pip
    pip3 install httpx  # 测试
    ```
-
-   
 
 5. 部署**校园网自动登录 `FRPC` 配置自动获取脚本**
 
