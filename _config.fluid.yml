@@ -438,7 +438,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: https://img1.imgtp.com/2022/03/20/snWZvYUf.png
+  banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/blog_head_pic.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -510,13 +510,13 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: https://img1.imgtp.com/2022/03/20/snWZvYUf.png
+  banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/blog_head_pic.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
   # Path of the default post cover when `index_img` is not set. If both are empty, no image will be displayed
-  default_index_img: https://img1.imgtp.com/2022/03/20/snWZvYUf.png
+  default_index_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/blog_head_pic.jpg
 
   # 文章标题下方的元信息
   # Meta information below title
@@ -700,8 +700,8 @@ gitalk:
   clientID: b2fd920dada050fed5b3
   clientSecret: 5c847cefe7df2df634886eafa178877899404378
   repo: AdminWhaleFall.github.io
-  owner: AdminWhaleFall
-  admin: ['AdminWhaleFall']
+  owner: WhaleFell
+  admin: ['WhaleFell']
   language: zh-CN
   labels: ['Gitalk']
   perPage: 10
