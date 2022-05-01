@@ -700,8 +700,8 @@ gitalk:
   clientID: b2fd920dada050fed5b3
   clientSecret: 5c847cefe7df2df634886eafa178877899404378
   repo: AdminWhaleFall.github.io
-  owner: AdminWhaleFall
-  admin: ['AdminWhaleFall']
+  owner: WhaleFell
+  admin: ['WhaleFell']
   language: zh-CN
   labels: ['Gitalk']
   perPage: 10
