@@ -1,9 +1,9 @@
 ---
-title: Golang 学习笔记——函数
+title: Golang 学习笔记——func函数
 date: 2022-05-2 2:17:48
 categories: Golang
 tags: [Golang, Coding]
-description: Golang 学习笔记——函数
+description: Golang 学习笔记——func函数
 index_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
 banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
 ---
