@@ -2,8 +2,8 @@
 title: 抑郁症用药大全对照表
 date: 2021-06-18 19:37:48
 updated: 2021-06-18 19:37:48
-categories: 抑郁症
-tags: [抑郁症]
+categories: Depression
+tags: [Depression, Medicine]
 description: 抑郁症所有用药对照表
 index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/%E5%89%B2%E8%85%95(%E4%BA%8C%E6%AC%A1%E5%85%83).jpg
 banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/%E5%89%B2%E8%85%95(%E4%BA%8C%E6%AC%A1%E5%85%83).jpg
