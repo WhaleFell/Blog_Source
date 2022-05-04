@@ -43,6 +43,8 @@ jobs:
           hexo clean
           hexo g
           hexo deploy
+          git add .
+          git commit -m "Auto deploy"
       
       # 提交更改
       - name: Push changes 
