@@ -1,6 +1,7 @@
 ---
 title: Golang 学习笔记——Go环境搭建
 date: 2022-04-19 18:30:48
+updated: 2022-04-19 18:30:48
 categories: Golang
 tags: [Golang, Coding]
 description: Golang 学习笔记——Go环境搭建

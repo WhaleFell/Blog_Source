@@ -1,8 +1,9 @@
 ---
 title: 😜 树莓派折腾手册 (二)——手动搭建LNMP网站服务器环境 🙏
 date: 2021-06-18 19:37:48
-categories: 树莓派
-tags: [树莓派, Linux系统]
+updated: 2021-06-18 19:37:48
+categories: Linux
+tags: [Respi, Linux]
 description: 树莓派折腾手册 2 ——手动搭建LNMP网站服务器环境 🙏
 index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210619154345.jpg
 banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210619154345.jpg

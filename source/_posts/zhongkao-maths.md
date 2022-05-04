@@ -1,8 +1,9 @@
 ---
 title: 😭2021年广东数学中考体验
 date: 2021-06-28 19:37:48
-categories: 数学
-tags: [数学, 考试]
+updated: 2021-06-28 19:37:48
+categories: schoolWork
+tags: [Maths, Test, schoolWork]
 description: 😭2021年广东数学中考体验
 index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210629014311.png
 banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210629014311.png

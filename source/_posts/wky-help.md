@@ -1,8 +1,9 @@
 ---
 title: 玩客云帮助手册
 date: 2021-12-19 19:37:48
-categories: 玩客云
-tags: [玩客云, Linux系统]
+updated: 2021-12-19 19:37:48
+categories: Linux
+tags: [WKY, Linux]
 description: 记一次配置玩客云的经历....
 index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220329204745.png
 banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220329204745.png

@@ -1,8 +1,9 @@
 ---
 title: Python 并发编程笔记
 date: 2021-06-18 19:37:48
+updated: 2021-06-18 19:37:48
 categories: Python
-tags: [Python, 程序]
+tags: [Python, Coding]
 description: Python并发编程(多线程,多进程,多协程)
 index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210630201524.png
 banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210630201524.png

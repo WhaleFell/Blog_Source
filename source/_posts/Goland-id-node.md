@@ -1,6 +1,7 @@
 ---
 title: Golang 学习笔记——go标识符-关键字-命名规则
 date: 2022-04-20 18:30:48
+updated: 2022-04-20 18:30:48
 categories: Golang
 tags: [Golang, Coding]
 description: Golang 学习笔记——go标识符-关键字-命名规则

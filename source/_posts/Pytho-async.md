@@ -1,8 +1,9 @@
 ---
 title: Python asyncio 异步协程百万并发
 date: 2021-08-18 19:37:48
+updated: 2021-08-18 19:37:48
 categories: Python
-tags: [Python, 程序]
+tags: [Python, Coding]
 description: Python 异步协程百万并发
 index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210630201524.png
 banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210630201524.png

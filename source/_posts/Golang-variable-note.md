@@ -1,6 +1,7 @@
 ---
 title: Golang 学习笔记——变量
 date: 2022-04-25 18:30:48
+updated: 2022-04-25 18:30:48
 categories: Golang
 tags: [Golang, Coding]
 description: Golang 学习笔记——变量

@@ -1,8 +1,9 @@
 ---
 title: 服务器备忘录✨
 date: 2022-03-20 19:37:48
-categories: 服务器
-tags: [技术, 服务器]
+updated: 2022-03-20 19:37:48
+categories: Server
+tags: [Server, Linux]
 index_img: https://images.samsung.com/is/image/samsung/p5/semiconductor/solutions/applications/server/3-kf-energy-efficiency-mobile.jpg?$ORIGIN_JPG$
 banner_img: https://images.samsung.com/is/image/samsung/p5/semiconductor/solutions/applications/server/3-kf-energy-efficiency-mobile.jpg?$ORIGIN_JPG$
 ---

@@ -1,6 +1,7 @@
 ---
 title: Linux Note
 date: 2022-03-20 16:37:48
+updated: 2022-03-20 16:37:48
 categories: Linux
 tags: [Linux, 技术]
 description: Linux Note

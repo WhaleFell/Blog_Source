@@ -1,8 +1,9 @@
 ---
 title: KaliLinuxHelp
 date: 2021-06-18 22:16:49
-categories: 技术
-tags: [Linux系统, 渗透]
+updated: 2021-06-18 22:16:49
+categories: Linux
+tags: [Linux, 技术]
 description: Kali 平台渗透教程
 index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210619154844.jpg
 banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210619154844.jpg

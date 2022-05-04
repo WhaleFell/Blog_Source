@@ -2,6 +2,7 @@
 title: Golang 学习笔记——const常量
 date: 2022-04-22 18:30:48
 categories: Golang
+updated: 2022-04-22 18:30:48
 tags: [Golang, Coding]
 description: Golang 学习笔记——const常量
 index_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png

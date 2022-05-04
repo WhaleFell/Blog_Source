@@ -1,8 +1,9 @@
 ---
 title: 😏 树莓派折腾手册（三）——搭建离线下载器 👀
 date: 2021-06-18 19:37:48
-categories: 树莓派
-tags: [树莓派, Linux系统]
+updated: 2021-06-18 19:37:48
+categories: Linux
+tags: [Respi, Linux]
 description: 树莓派折腾手册 3——搭建离线下载器 👀
 index_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210619154345.jpg
 banner_img: https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20210619154345.jpg
