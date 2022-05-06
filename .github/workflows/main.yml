@@ -43,9 +43,8 @@ jobs:
           hexo clean
           hexo g
           hexo deploy
-          set +e
           git add .
-          git commit -m "Auto deploy"
+          git commit -m "Auto deploy" || ! echo '🈲 Repo commit error' || exit
       
       # 提交更改
       - name: Push changes 
