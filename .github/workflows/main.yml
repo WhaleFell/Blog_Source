@@ -43,6 +43,7 @@ jobs:
           hexo clean
           hexo g
           hexo deploy
+          set +e
           git add .
           git commit -m "Auto deploy"
       
