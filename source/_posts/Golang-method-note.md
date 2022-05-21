@@ -5,8 +5,8 @@ categories: Golang
 updated: 2022-05-6 21:54:48
 tags: [Golang, Coding]
 description: Golang 学习笔记——method方法
-index_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
-banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
+index_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.png
+banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.png
 ---
 
 # Go 方法

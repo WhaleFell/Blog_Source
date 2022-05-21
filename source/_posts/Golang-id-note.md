@@ -5,8 +5,8 @@ updated: 2022-04-20 18:30:48
 categories: Golang
 tags: [Golang, Coding]
 description: Golang 学习笔记——go标识符-关键字-命名规则
-index_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
-banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
+index_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.png
+banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.png
 ---
 
 # go标识符-关键字-命名规则

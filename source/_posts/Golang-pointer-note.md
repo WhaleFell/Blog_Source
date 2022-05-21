@@ -5,8 +5,8 @@ updated: 2022-05-2 18:17:48
 categories: Golang
 tags: [Golang, Coding]
 description: Golang 学习笔记——Pointer指针
-index_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
-banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
+index_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.png
+banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.png
 ---
 
 # Go指针

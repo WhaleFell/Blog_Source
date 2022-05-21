@@ -5,8 +5,8 @@ categories: Golang
 updated: 2022-04-22 18:30:48
 tags: [Golang, Coding]
 description: Golang 学习笔记——const常量
-index_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
-banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
+index_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.png
+banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.png
 ---
 
 # go 语言常量

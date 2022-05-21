@@ -5,8 +5,8 @@ categories: Golang
 updated: 2022-05-2 18:30:48
 tags: [Golang, Coding]
 description: Golang 学习笔记——struct结构体
-index_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
-banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/Pic@master/img/image.png
+index_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.png
+banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.png
 ---
 
 # Go 结构体
