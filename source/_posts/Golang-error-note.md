@@ -47,11 +47,13 @@ func main() {
 ## 错误类型表示
 G0语言通过 **内置的错误接口** 提供了非常简单的错误处理机制。  
 **定义错误类型** 的构建。错误是一个带有以下定义的接口类型:  
+
 ```go
 type error interface {
     Error() string
 }
 ```    
+
 > `fmt.Println(err)` 会在内部执行 Error() 方法,返回错误的字符串信息.  
 
 ![](https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/notes/img/error-1.png)  
