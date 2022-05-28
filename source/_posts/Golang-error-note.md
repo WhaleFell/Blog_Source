@@ -32,7 +32,7 @@ import (
 
 func main() {
     //打开一个文件
-    f,err :os.Open(name:"test.txt")
+    f,err := os.Open(name:"test.txt")
     if err != nil{
         //log.Fatal(err)  //调用日志模块捕捉异常,会自动 return
         fmt.Println(err) //异常信息:open test.txt:no such file directoryreturn
