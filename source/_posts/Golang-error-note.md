@@ -153,11 +153,13 @@ func circleArea(r float64) (float64, error) {
 
 ## 尽量不要 `_` 忽略错误
 **永远不要忽略一个错误。忽视错误会招致麻烦。**
+
 ```go
 files,_ := filepath.Glob("[")
 ```
 
 ## `panic()` 和 `recover()`
+
 ```go
 package main
 
