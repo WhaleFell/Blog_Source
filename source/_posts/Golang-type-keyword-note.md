@@ -18,11 +18,11 @@ banner_img: https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/icon_img.p
 type 类型名 Typde
 type myint int  //定义了一共 `myint` 类型它是 `int` 类型
 ```
-![](type-2.png)  
+![](https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/notes/img/type-2.png)  
 
 ## 通过 type 定义函数类型
 Go 语言支持 **高阶函数** ,所以可以把函数作为一个函数的返回值,或者一个函数的参数.
-![](type-1.png)  
+![](https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/notes/img/type-1.png)  
 
 ## 类型别名
 常常用于代码迁移,适配新旧代码.
@@ -35,8 +35,7 @@ type myint = int
 ## 非本地类型不能定义方法
 `time` 包下的 `Duration` 类型不是 `main` 包下的类型,所以不是本地类型.不能定义方法.
 
-![](type-3.png)  
+![](https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/notes/img/type-3.png)  
 
 ## 在结构体成员嵌入时使用别名
-![](type-4.png)  
-
+![](https://cdn.jsdelivr.net/gh/WhaleFell/GolangCoding@master/notes/img/type-4.png)  
