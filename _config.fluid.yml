@@ -958,9 +958,15 @@ links:
     }
     - {
       title: 萌小志のBlog,
-      intro: 发现更大的世界,
+      intro: 去你妈的现实,
       link: https://mengxiaozhi.galigali.club,
       avatar: https://mengxiaozhi.github.io/dowload/image/IMG_0006.JPG
+    }
+    - {
+      title: Weclont Blog,
+      intro: 去你妈的现实,
+      link: https://blog.fwder.cn,
+      avatar: https://cdn.fwder.cn/images/header.jpg
     }
 
   # 当成员头像加载失败时，替换为指定图片
